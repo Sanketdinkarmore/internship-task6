@@ -1,1 +1,1 @@
-This is teh design task
+This is the design task
